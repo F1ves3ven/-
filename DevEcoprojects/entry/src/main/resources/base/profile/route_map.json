@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "main",
+      "pageSourceFile": "src/main/ets/pages/main.ets",
+      "buildFunction": "mainBuilder",
+      "data": {
+        "description" : "this is main"
+      }
+    }
+  ]
+}
